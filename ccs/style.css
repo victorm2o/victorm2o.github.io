@@ -20,7 +20,7 @@ img{
 
 }
 .header{
-    background-image: url(/assets/imagenes/banner.jpg);
+    background-image: url(../assets/imagenes/banner.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -36,7 +36,7 @@ img{
 
 
 .header3{
-     background-image: url(/assets/imagenes/banner3.jpg);
+     background-image: url(../assets/imagenes/banner3.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
